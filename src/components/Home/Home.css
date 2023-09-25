@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:display=swap');
+
+@font-face {
+    font-family: font-head;
+    src: url(./src/assets/Croissant_One/CroissantOne_Regular.ttf);
+  }
+
+  .font-head {
+    font-family: font-head;
+  }
+
+  .font-text {
+    font-family: 'Josefin Sans', sans-serif;
+  }
