@@ -6,7 +6,7 @@
 + Used **Redux** to manage the state of the **user profiles**
 + Implemented a **responsive design** using **Tailwind CSS and Daisy UI** for the user profile cards
 + Used **React-routing** in my React application to navigate between the list and detail views
-</br>
+
 ## Our Home Page
 ![Screenshot 2023-09-25 at 14-54-18 Vite React](https://github.com/md-hanif14/user-profile-website-akash/assets/121877898/d3274cf1-9bbb-4eb6-9990-6fb41c2080cd)
 </br>
